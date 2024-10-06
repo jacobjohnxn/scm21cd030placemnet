@@ -1,4 +1,4 @@
-pharmacy dataset (data.world)
+apharmacy dataset (data.world)
 
 step1: Business understanding 
 step2: Domain Knowledge
