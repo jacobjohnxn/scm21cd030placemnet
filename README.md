@@ -30,10 +30,12 @@ Visualizations were created to better understand the data using libraries such a
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/pharmacy-dataset-analysis.git
+   git clone https://github.com/jacobjohnxn/scm21cd030placemnet.git
 2. Navigate into the directory:
    ```bash
-   cd pharmacy-dataset-analysis
+   cd python
+   cd eda
+   cd pharmacy
     ```
 3. Install the dependencies:
 ```bash
