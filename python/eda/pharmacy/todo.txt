@@ -1,0 +1,14 @@
+pharmacy dataset (data.world)
+
+step1: Business understanding 
+step2: Domain Knowledge
+step3: Data cleaning
+step4: Data analysis
+step5: Visualization(optional)
+
+
+
+Folder name-> your Domain
+readme file
+requiremnet.txt
+3 branches -dev,test,main
